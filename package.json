@@ -41,7 +41,7 @@
     "redux-middleware-oneshot": "https://github.com/bsy/redux-middleware-oneshot.git"
   },
   "peerDependencies": {
-    "react": "15.1.0",
+    "react": "^15.1.0",
     "redux": "^3.0.0 || ^2.0.0 || ^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
   },
   "bugs": {
